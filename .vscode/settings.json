@@ -1,0 +1,19 @@
+{
+  "files.exclude": {
+    ".vscode": true,
+    "setup": true,
+    "node_modules": true,
+    "vendor": true,
+    ".babelrc": true,
+    ".editorconfig": true,
+    ".wueignore": true,
+    "functions.php": true,
+    "index.php": true,
+    "LICENSE": true,
+    "package-lock.json": true,
+    "screenshot.png": true,
+    "style.css": true,
+    "wue.meta.json": true,
+    "dist": true
+  }
+}
